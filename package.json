@@ -1,0 +1,25 @@
+{
+  "name": "amp-cache",
+  "version": "1.0.0",
+  "description": "Utility for clearing AMP cache",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzysztofbukowski/amp-cache.git"
+  },
+  "group": "utilities",
+  "author": "Krzysztof Bukowski",
+  "licenses": [
+      {
+        "type": "",
+        "url": ""
+      }
+  ],
+  "bugs": {
+    "url": "https://github.com/krzysztofbukowski/amp-cache/issues"
+  },
+  "homepage": "https://github.com/krzysztofbukowski/amp-cache#readme",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-rpm": "giffgaff/grunt-rpm"
+  }
+}

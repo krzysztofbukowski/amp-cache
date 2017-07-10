@@ -1,2 +1,4 @@
 .tmp
 *.pem
+node_modules
+dist
