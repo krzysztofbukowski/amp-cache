@@ -33,7 +33,7 @@ module.exports = function(grunt) {
                     postRemove: {src: 'scripts/post-remove.sh'},
                 },
                 files: {
-                    '/opt/gg/amp-cache': ['run.sh']
+                    '/opt/gg/amp-cache': ['run.sh', 'package.json']
                 }
             }
         }
